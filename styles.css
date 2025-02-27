@@ -29,7 +29,7 @@ button, a.btn {
 /* Hero Section */
 header.hero {
   height: 100vh;
-  background: linear-gradient(120deg, #007BFF, #00A8FF);
+  background: linear-gradient(120deg, #ff00ea, #112f59);
   color: white;
   display: flex;
   flex-direction: column;
