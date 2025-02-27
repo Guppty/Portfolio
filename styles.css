@@ -17,7 +17,7 @@ body {
 h1, h2, h3 {
   font-weight: 700;
 }
- 
+
 a {
   text-decoration: none;
 }
@@ -29,7 +29,7 @@ button, a.btn {
 /* Hero Section */
 header.hero {
   height: 100vh;
-  background: linear-gradient(120deg, #ff00ea, #112f59);
+  background: linear-gradient(120deg, #007BFF, #00A8FF);
   color: white;
   display: flex;
   flex-direction: column;
